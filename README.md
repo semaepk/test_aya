@@ -14,8 +14,8 @@
 
 __endpoint 1:__
 
-- Нужно сделать два запроса на создание (https://jsonplaceholder.typicode.com/guide/)
-id, user, balance
+- Нужно отдать два пост запроса исползуя https://jsonplaceholder.typicode.com/posts/1
+со следующими полями: id, user, balance
 
 __endpoint 2:__
 
