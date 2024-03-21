@@ -14,8 +14,7 @@
 
 __endpoint 1:__
 
-- Нужно отдать два пост запроса исползуя https://jsonplaceholder.typicode.com/posts/1 и https://jsonplaceholder.typicode.com/posts/2
-со следующими полями: user, balance
+- Нужно отдать получившийся массив двух запросов на https://jsonplaceholder.typicode.com/posts/:id где id 1 и 2 соответственно
 
 __endpoint 2:__
 
